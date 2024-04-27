@@ -1,4 +1,4 @@
-# SPC Supplier Management System
+# SPC Tender Management System
 
 Through this project, I have digitized the method of obtaining medicine through the tenders of the State Pharmaceutical Cooperation (SPC).  Companies that want to submit tenders have to create a profile in this system.  That way, they can view a list of medicines for which tenders have been invited.
 
@@ -6,9 +6,9 @@ Through this project, I have digitized the method of obtaining medicine through 
 
 * Supplier  Registration and Management.
 * Admin Login
-* Search Drugs = By entering a key word.
+* Search Drugs = By entering a keyword.
 * Manage Stocks = Using this system, the admin can add stocks to the system, as well as change & delete if necessary.
-* Manage Tenders = The admin can add tenders to the system, as well as can update details & delete them if necessary.
+* Manage Tenders = The admin can add tenders to the system, as well as update details & delete them if necessary.
 * Submit Tender Proposals 
 * [More features...]
 
